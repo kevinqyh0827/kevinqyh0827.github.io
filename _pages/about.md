@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi, my name is Yinhong Qin. I am currently a Research Assistant at MAPLE lab, Vanderbilt University, advised by Prof. Jie Ying Wu. I am also working closely with [Prof. Daniel Moyer](https://dcmoyer.github.io/) and [Prof. Soheil Kolouri](https://skolouri.github.io/). Previously, I received my M.S. in Computer Engineering at New York University and B.Eng at Central South University, China. Besides, I also have internship experiences at [Intuitive Surigcal](https://www.intuitive.com/en-us), working on the FireFly feature for da Vinci Surgical System (2022 Summer) and [Mech-Mind Robotics](https://www.mech-mind.com/), working on depth camera development (2020-2021).
 
-I am highly interested in Robotics related research leveraging learning-based methods. 
+I am highly interested in Robotics related research leveraging learning-based methods. Recently, I am interested in contact-aware manipulation with visual and tactile information.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `assets/img/` folder.
 

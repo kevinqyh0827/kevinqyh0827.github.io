@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.vanderbilt.edu/'>Vanderbilt University</a>. Nashville, TN.
 
 profile:
   align: right
@@ -17,11 +17,11 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi, my name is Yinhong Qin/ 覃崟弘. I am currently a Research Assistant at MAPLE lab, Vanderbilt University, advised by Prof. Jie Ying Wu. I am also working closely with [Prof. Daniel Moyer](https://dcmoyer.github.io/) and [Prof. Soheil Kolouri](https://skolouri.github.io/). Previously, I received my M.S. in Computer Engineering at New York University and B.Eng at Central South University, China. Besides, I also have internship experiences at [Intuitive Surigcal](https://www.intuitive.com/en-us), working on the FireFly feature for da Vinci Surgical System (2022 Summer) and [Mech-Mind Robotics](https://www.mech-mind.com/), working on depth camera development (2020-2021).
+Hi, my name is Yinhong Qin/ 覃崟弘. I am currently a Research Assistant at MAPLE lab, Vanderbilt University, advised by Prof. Jie Ying Wu. I am also working closely with [Prof. Daniel Moyer](https://dcmoyer.github.io/) and [Prof. Soheil Kolouri](https://skolouri.github.io/). Previously, I received my M.S. in Computer Engineering at New York University and B.Eng at Central South University, China. Besides, I also have internship experiences at [Intuitive Surigcal](https://www.intuitive.com/en-us), working on the FireFly feature for the da Vinci Surgical System and [Mech-Mind Robotics](https://www.mech-mind.com/), working on depth camera development.
 
 I am highly interested in Robotics related research leveraging learning-based methods. Recently, I am interested in how could LLM assist with robot control as well as its safety concern. 
 
-Misc: I am a [Tujia people/ 土家族](https://en.wikipedia.org/wiki/Tujia_people) and was born and raised in [Zhijiang/ 芷江](https://en.wikipedia.org/wiki/Zhijiang_Dong_Autonomous_County), a peaceful town in western Hunan, where on Aug. 21st, 1945, the Japanese government signed the first surrounding treaty with the Republic of China, marking the end of the Second Sino-Japanese War during World War II.
+**Misc**: I am a [Tujia people/ 土家族](https://en.wikipedia.org/wiki/Tujia_people) and was born and raised in [Zhijiang/ 芷江](https://en.wikipedia.org/wiki/Zhijiang_Dong_Autonomous_County), a peaceful town in western Hunan, where on Aug. 21st, 1945, the Japanese government signed the first surrounding treaty with the Republic of China, marking the end of the Second Sino-Japanese War during World War II.
 
 <!-- I am also interested in contact-aware manipulation with visual and tactile information. -->
 

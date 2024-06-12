@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.vanderbilt.edu/'>Vanderbilt University</a>. Nashville, TN.
+# subtitle: <a href='https://www.vanderbilt.edu/'>Vanderbilt University</a>. Nashville, TN.
 
 profile:
   align: right
@@ -13,11 +13,11 @@ profile:
     # <p>Nashville, TN</p>
   more_info: >
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi, my name is Yinhong Qin/ 覃崟弘. I am currently a Research Assistant at MAPLE lab, Vanderbilt University, advised by Prof. Jie Ying Wu. I am also working closely with [Prof. Daniel Moyer](https://dcmoyer.github.io/) and [Prof. Soheil Kolouri](https://skolouri.github.io/). Previously, I received my M.S. in Computer Engineering at New York University and B.Eng at Central South University, China. Besides, I also have internship experiences at [Intuitive Surigcal](https://www.intuitive.com/en-us), working on the FireFly feature for the da Vinci Surgical System and [Mech-Mind Robotics](https://www.mech-mind.com/), working on depth camera development.
+Hi, my name is Yinhong Qin/ 覃崟弘. I am currently working with [Prof. Wanxin Jin](https://wanxinjin.github.io/) from Arizona State University on contact-rich manipulation problems. I am also working  Previously, I was a Research Assistant at MAPLE lab, Vanderbilt University, advised by Prof. Jie Ying Wu, working closely with [Prof. Daniel Moyer](https://dcmoyer.github.io/) and [Prof. Soheil Kolouri](https://skolouri.github.io/). I completed my M.S. in Computer Engineering at New York University and B.Eng at Central South University, China. Besides, I also have internship experiences at [Intuitive Surigcal](https://www.intuitive.com/en-us), working on the FireFly feature for the da Vinci Surgical System and [Mech-Mind Robotics](https://www.mech-mind.com/), working on depth camera development.
 
 I am highly interested in Robotics related research leveraging learning-based methods. Recently, I am interested in how could LLM assist with robot control as well as its safety concern. 
 

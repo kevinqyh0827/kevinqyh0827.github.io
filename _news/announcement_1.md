@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start working with Prof. Wanxin Jin on contact-rich manipulation problems.
+Start working with <a href="https://wanxinjin.github.io/">Prof. Wanxin Jin</a> on contact-rich manipulation problems.
